@@ -23,4 +23,12 @@
                android:id="@+id/action_jumat"
                android:orderInCategory="100"                                        android:showAsAction="never"
                android:title="Jumat"/>
+          <item
+               android:id="@+id/action_sabtu"
+               android:orderInCategory="100"                                        android:showAsAction="never"
+               android:title="Sabtu"/>
+             <item
+               android:id="@+id/action_minggu"
+               android:orderInCategory="100"                                        android:showAsAction="never"
+               android:title="Minggu"/>
 </menu>
